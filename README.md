@@ -60,31 +60,8 @@ Exportable JSON Decision Artifact
 | 6 | Recommendation scroll | Synthesized executive summary, bias filter tags, cryptographic audit hash |
 
 ---
+![WhatsApp Image 2026-04-07 at 10 46 14 PM](https://github.com/user-attachments/assets/e93e8510-0e73-4364-8494-f65268287b19)
 
-<!-- Add screenshot: Thinking screen — pipeline running live -->
-![Thinking / Pipeline Progress]()
-
----
-
-<!-- Add screenshot: Options Explorer — 4 strategy cards -->
-![Options Explorer]()
-
----
-
-<!-- Add screenshot: Trade-off Intelligence matrix + radar chart -->
-![Trade-off Analysis]()
-
----
-
-<!-- Add screenshot: Recommendation dashboard — confidence 94, CPO directive -->
-![Recommendation Dashboard]()
-
----
-
-<!-- Add screenshot: Executive summary + bias filter + session hash -->
-![Audit & Executive Summary]()
-
----
 
 ## ⚙️ Tech Stack
 
@@ -188,6 +165,8 @@ Each stage has a distinct AI persona and a strict JSON output contract. Every pr
 > Invalid JSON triggers an automatic retry with an explicit correction prefix.
 
 ---
+![WhatsApp Image 2026-04-07 at 10 46 43 PM](https://github.com/user-attachments/assets/2a4391ca-f3c5-464d-bfbe-fdceb2f58cbb)
+
 
 ## 🔑 Key Features
 
