@@ -2,6 +2,9 @@
 
 > **Production-grade GenAI system that transforms ambiguous product decisions into structured, explainable, CPO-level recommendations through a 4-stage multi-agent reasoning pipeline.**
 
+**Define the Strategic Frontier**
+
+![WhatsApp Image 2026-04-07 at 10 45 38 PM](https://github.com/user-attachments/assets/f136694e-d62d-47e7-81b0-d7ad9a6110e8)
 
 
 ## 🧠 Architecture
@@ -57,7 +60,7 @@ Exportable JSON Decision Artifact
 ---
 **Thinking screen**
 
-![WhatsApp Image 2026-04-07 at 10 46 14 PM](https://github.com/user-attachments/assets/e93e8510-0e73-4364-8494-f65268287b19)
+![WhatsApp Image 2026-04-07 at 10 45 48 PM](https://github.com/user-attachments/assets/78a6a994-e0eb-4701-ad6c-c34bf02ed0bc)
 
 **Options Explorer**
 
