@@ -75,7 +75,7 @@ Exportable JSON Decision Artifact
 
 ![WhatsApp Image 2026-04-07 at 10 46 36 PM](https://github.com/user-attachments/assets/89756b57-466a-40be-be5f-9fb2d016dd4d)
 
-**Executive summary + bias filter + session hash **
+**Executive summary + bias filter + session hash**
 
 ![WhatsApp Image 2026-04-07 at 10 46 43 PM](https://github.com/user-attachments/assets/f7150edd-0aea-4b77-bf80-3685370b4c07)
 
@@ -182,7 +182,6 @@ Each stage has a distinct AI persona and a strict JSON output contract. Every pr
 > Invalid JSON triggers an automatic retry with an explicit correction prefix.
 
 ---
-![WhatsApp Image 2026-04-07 at 10 46 43 PM](https://github.com/user-attachments/assets/2a4391ca-f3c5-464d-bfbe-fdceb2f58cbb)
 
 
 ## 🔑 Key Features
