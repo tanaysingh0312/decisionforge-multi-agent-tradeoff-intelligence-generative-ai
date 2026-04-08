@@ -60,7 +60,21 @@ Exportable JSON Decision Artifact
 | 6 | Recommendation scroll | Synthesized executive summary, bias filter tags, cryptographic audit hash |
 
 ---
+**Thinking screen**
 ![WhatsApp Image 2026-04-07 at 10 46 14 PM](https://github.com/user-attachments/assets/e93e8510-0e73-4364-8494-f65268287b19)
+
+**Options Explorer**
+![WhatsApp Image 2026-04-07 at 10 46 06 PM](https://github.com/user-attachments/assets/898c8fec-4128-4292-a79c-c787308e02fe)
+![WhatsApp Image 2026-04-07 at 10 46 14 PM](https://github.com/user-attachments/assets/7cb2873f-b87d-41d5-aa54-bbf26cccc97e)
+
+**Trade-off Intelligence matrix + radar chart**
+![WhatsApp Image 2026-04-07 at 10 46 24 PM](https://github.com/user-attachments/assets/61a41119-ae36-4c9d-81bb-3429981368ff)
+
+**Recommendation dashboard — confidence 94, CPO directive** 
+![WhatsApp Image 2026-04-07 at 10 46 36 PM](https://github.com/user-attachments/assets/89756b57-466a-40be-be5f-9fb2d016dd4d)
+
+**Executive summary + bias filter + session hash **
+![WhatsApp Image 2026-04-07 at 10 46 43 PM](https://github.com/user-attachments/assets/f7150edd-0aea-4b77-bf80-3685370b4c07)
 
 
 ## ⚙️ Tech Stack
